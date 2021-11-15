@@ -19,7 +19,7 @@ import java.util.List;
 @Service
 public class RepoService {
     private final RestTemplate rst;
-    private final String token = "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";
+    private final String token = "";
 
 
     public RepoService(RestTemplateBuilder rstBlder) {
